@@ -108,9 +108,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 * **Sai Siddhartha** 
 * **Chaitanya** 
 * **Pranav Aditya Bongi** 
-## 📧 Contact
 
-Phone Number : 9059728400
 
 ---
 
